@@ -1,0 +1,27 @@
+---
+title: 'Week of 1/19/20 Assignment'
+output:
+  html_document:
+    df_print: paged
+---
+
+#### Assignment: Tidyverse Clean-up
+
+1. Rewrite secret santa code in Tidyverse.
+    + Endsure to comment code.
+2. Secret Santa list data addendums
+    + All additional details to the secret santa list.
+      + Add randomizer cost of gift (up $100, except for Chris who bought his gift for $364.97)
+        + Make sure gift prices are rounded to the 2nd decimal points.
+      + Add dates when gift givers bought gifts (within first 5 days of december, except for Chris who bought the gift on 4/1/2019)
+3. Practice exporting data and reading data.
+    + Export dataset in csv file.
+      + Post data set to gethub.
+    + Save workspace to presrve data.
+4. Review each other's data and complete analysis difference between each population.
+    + Provide summary of data for dataset.
+      + What conclusions can be discerned from the datasets?
+5. Make sure all code is written in Tidyverse.
+  
+  
+#### Code 
