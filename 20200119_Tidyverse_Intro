@@ -8,7 +8,7 @@ output:
 #### Assignment: Tidyverse Clean-up
 
 1. Rewrite secret santa code in Tidyverse.
-    + Endsure to comment code.
+    + Ensure to comment code.
 2. Secret Santa list data addendums
     + All additional details to the secret santa list.
       + Add randomizer cost of gift (up $100, except for Chris who bought his gift for $364.97)
