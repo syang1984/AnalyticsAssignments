@@ -17,6 +17,8 @@ output:
 3. Practice exporting data and reading data.
     + Export dataset in csv file.
       + Post data set to gethub.
+    + Read data back into R into a new object.
+      + Ensure all data imported back correctly, including data types.
     + Save workspace to preserve data.
 4. Make sure all code is written in Tidyverse.
   
