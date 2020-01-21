@@ -17,11 +17,8 @@ output:
 3. Practice exporting data and reading data.
     + Export dataset in csv file.
       + Post data set to gethub.
-    + Save workspace to presrve data.
-4. Review each other's data and complete analysis difference between each population.
-    + Provide summary of data for dataset.
-      + What conclusions can be discerned from the datasets?
-5. Make sure all code is written in Tidyverse.
+    + Save workspace to preserve data.
+4. Make sure all code is written in Tidyverse.
   
   
-#### Code 
+#### Code (complete assignment below)
