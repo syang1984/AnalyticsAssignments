@@ -5,7 +5,7 @@ output:
     df_print: paged
 ---
 
-#### Assignment: Tidyverse Clean-up
+#### Assignment: Tidyverse Review of Data
 
 
 1. Read submitted csv from fellow classmates.
