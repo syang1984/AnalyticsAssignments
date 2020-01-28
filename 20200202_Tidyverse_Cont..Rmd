@@ -1,0 +1,26 @@
+---
+title: 'Week of 2/2/2020 Assignment'
+output:
+  html_document:
+    df_print: paged
+---
+
+#### Assignment: Tidyverse Clean-up
+
+
+1. Read submitted csv from fellow classmates.
+2. Load data into your own work space.
+3. Review each other's data and complete analysis difference between each population.
+    + Provide summary of data for dataset.
+      + What conclusions can be discerned from the datasets?
+    + How does the purchase dates and prices compared between datasets?
+4. Present the data in one of the following:
+    + Pie Chart
+    + Bar Graph
+    + Box plot
+5. Ensure graphs are color coded, labeled and makes sense.
+6. Provide short narrative conclusion.
+7. Make sure all code is written in Tidyverse.
+  
+  
+#### Code 
