@@ -7,6 +7,7 @@ output:
 
 #### Assignment: Tidyverse Review of Data
 
+*Make sure all code is written in Tidyverse.
 
 1. Read submitted csv from fellow classmates.
 2. Load data into your own work space.
@@ -19,8 +20,10 @@ output:
     + Bar Graph
     + Box plot
 5. Ensure graphs are color coded, labeled and makes sense.
+    + Export graphs and post to github.
 6. Provide short narrative conclusion.
-7. Make sure all code is written in Tidyverse.
-  
+    + Post narrative to github.
+7. Label files as such: 20200202_Assignment_(name)_(initials)
   
 #### Code 
+
