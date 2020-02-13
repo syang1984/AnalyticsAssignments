@@ -1,0 +1,29 @@
+---
+title: 'Week of 2/9/2020 Assignment'
+output:
+  html_document:
+    df_print: paged
+---
+
+#### Assignment: Tidyverse Review of Data
+
+*Make sure all code is written in Tidyverse.
+
+1. Download the Titanic Dataset
+    + Download both test and train csv files.
+    + https://github.com/syang1984/AnalyticsAssignments
+2. Load the train dataset into your workspace.
+3. Review train dataset.
+    + Provide summary of data for dataset.
+      + What conclusions can be discerned from the dataset?
+4. Present the data in one of the following comparing various variables to survival:
+    + Bar Graph
+    + Box plot
+    + Bar graph
+    + Scatter plot
+5. Ensure graphs are color coded, labeled and makes sense.
+    + Export graphs and post to github.
+6. Provide short narrative conclusion in RMD.
+7. Label files as such: 20200209_Assignment_(name)_(initials)
+  
+#### Code 
